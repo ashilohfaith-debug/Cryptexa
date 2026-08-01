@@ -15,14 +15,12 @@ A professional, full-stack intelligence platform that decodes hype, exposes mark
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    <img src="https://img.shields.io/badge/CoinGecko-8DC63F?style=for-the-badge&logoColor=white" alt="CoinGecko" />
-</p>
   
 </div>
 
 </br>
 
-## Overview
+## <img width="25" height="25" alt="overview" src="https://github.com/user-attachments/assets/dd1d6fee-2516-45c0-bab0-f61c498091e1" /> Overview
 
 **Cryptexa** is an advanced market intelligence dashboard designed to separate genuine crypto market momentum from artificial social media hype. It uses an algorithmic **Reality Score** to warn traders about imminent pump-and-dump schemes, tracks hidden gems, and simulates market conditions.
 
@@ -30,12 +28,12 @@ This repository features a **modular full-stack architecture**, cleanly separati
 
 </br>
 
-## Key Features
+## <img width="27" height="27" alt="feature" src="https://github.com/user-attachments/assets/0e2be0f0-96f8-4953-925c-4dfba1bd409a" /> Key Features
 
 *   **Real-time Intelligence Matrix:** Tracks 18 leading assets with live price feeds via the CoinGecko API.
 *   **Reality Score Engine:** Computes a unique metric based on the divergence between *Price Strength* and *Social Hype Intensity*.
-*   **Manipulation Lab:** Features a "What-If Simulator" allowing users to adjust volume, whale activity, and hype to model outcomes.
-*   **Historical Time Travel:** Analyze past market anomalies (e.g., 2021 Bull Run, 2022 Terra Crash) to validate trading models.
+*   **Manipulation Lab:** Features a 'What-If Simulator' allowing users to adjust volume, whale activity, and hype to model outcomes.
+*   **Historical Time Travel:** Analyzes past market anomalies (e.g., 2021 Bull Run, 2022 Terra Crash) to validate trading models.
 *   **Trading Tools:** Includes an integrated RSI Calculator, Risk/Reward position sizer, and side-by-side coin comparison mode.
 *   **Dark Mode Glassmorphic UI:** A premium, fully responsive interface featuring CSS micro-animations and Chart.js visualizations.
 
