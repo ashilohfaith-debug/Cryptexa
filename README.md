@@ -7,9 +7,9 @@
 
 A professional, full-stack intelligence platform that decodes hype, exposes market manipulation, and tracks real-time cryptocurrency divergence using CoinGecko and Firebase.
 
-[Features](features) • [Architecture</a>](architecture) • [Installation](installation) • [Security](security) • [Technologies](technologies)
-
 </br>
+
+[Features](features) • [Architecture</a>](architecture) • [Installation](installation) • [Security](security) • [Technologies](technologies)
 
   <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
