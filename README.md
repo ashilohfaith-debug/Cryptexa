@@ -11,23 +11,26 @@ A professional, full-stack intelligence platform that decodes hype, exposes mark
 
 [Overview](overview) • [Features](features) • [Architecture</a>](architecture) • [Installation](installation) • [Security](security) • [Technologies](technologies)
 
-  <p align="center">
+<p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  </p>
+    <img src="https://img.shields.io/badge/CoinGecko-8DC63F?style=for-the-badge&logoColor=white" alt="CoinGecko" />
+</p>
   
 </div>
 
 </br>
 
-## ⚡ Overview
+## Overview
 
 **Cryptexa** is an advanced market intelligence dashboard designed to separate genuine crypto market momentum from artificial social media hype. It uses an algorithmic **Reality Score** to warn traders about imminent pump-and-dump schemes, tracks hidden gems, and simulates market conditions.
 
 This repository features a **modular full-stack architecture**, cleanly separating the vanilla JavaScript frontend from the Python data pipeline backend.
 
-## 🚀 Key Features
+</br>
+
+## Key Features
 
 *   **Real-time Intelligence Matrix:** Tracks 18 leading assets with live price feeds via the CoinGecko API.
 *   **Reality Score Engine:** Computes a unique metric based on the divergence between *Price Strength* and *Social Hype Intensity*.
@@ -36,7 +39,7 @@ This repository features a **modular full-stack architecture**, cleanly separati
 *   **Trading Tools:** Includes an integrated RSI Calculator, Risk/Reward position sizer, and side-by-side coin comparison mode.
 *   **Dark Mode Glassmorphic UI:** A premium, fully responsive interface featuring CSS micro-animations and Chart.js visualizations.
 
----
+<br/>
 
 ## 🏗️ Architecture & Project Structure
 
@@ -68,7 +71,7 @@ Cryptexa/
 └── .gitignore                 # Security exclusion file
 ```
 
----
+</br>
 
 ## 🛠️ Installation & Setup
 
@@ -95,7 +98,7 @@ Cryptexa/
    python upload_csv.py
    ```
 
----
+</br>
 
 ## 🔐 Security & Best Practices
 
@@ -104,7 +107,7 @@ This project adheres to strict security standards:
 *   **Secure `.gitignore`:** Prevents accidental commits of `firebase_credentials.json`, `.env`, and `env.js` files.
 *   **Modular Architecture:** Clean separation of frontend UI state and backend Python services.
 
----
+</br>
 
 ## 💻 Technologies Used
 
@@ -114,7 +117,7 @@ This project adheres to strict security standards:
 *   **Database:** Firebase Realtime Database.
 *   **APIs:** CoinGecko V3, Alternative.me (Fear & Greed Index).
 
----
+</br>
 
 <div align="center">
   <p>Designed and built for traders who want to see past the noise.</p>
