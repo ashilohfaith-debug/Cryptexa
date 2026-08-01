@@ -4,22 +4,17 @@
   # **Cryptexa**
   
   **Market Manipulation & Trend Intelligence System</strong>**
-  
-    A professional, full-stack intelligence platform that decodes hype, exposes market manipulation, and tracks real-time cryptocurrency divergence using CoinGecko and Firebase.
 
-  <p align="center">
-    <a href="#features">Features</a> •
-    <a href="#architecture">Architecture</a> •
-    <a href="#installation">Installation</a> •
-    <a href="#security">Security</a> •
-    <a href="#technologies">Technologies</a>
-  </p>
+A professional, full-stack intelligence platform that decodes hype, exposes market manipulation, and tracks real-time cryptocurrency divergence using CoinGecko and Firebase.
+
+[Features](features) • [Architecture</a>](architecture) • [Installation](installation) • [Security](security) • [Technologies](technologies)
 
   <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   </p>
+  
 </div>
 
 ---
