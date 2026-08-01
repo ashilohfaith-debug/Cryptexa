@@ -9,6 +9,8 @@ A professional, full-stack intelligence platform that decodes hype, exposes mark
 
 [Features](features) • [Architecture</a>](architecture) • [Installation](installation) • [Security](security) • [Technologies](technologies)
 
+</br>
+
   <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -17,7 +19,7 @@ A professional, full-stack intelligence platform that decodes hype, exposes mark
   
 </div>
 
----
+</br>
 
 ## ⚡ Overview
 
