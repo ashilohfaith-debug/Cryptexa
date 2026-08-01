@@ -1,12 +1,11 @@
 <div align="center">
-  <img width="100" height="100" alt="bit" src="https://github.com/user-attachments/assets/1ff462df-074c-4e91-a465-262ab7bf6886" />
-  <h1 align="center">Cryptexa</h1>
-  <p align="center">
-    <strong>Market Manipulation & Trend Intelligence System</strong>
-  </p>
-  <p align="center">
+  <img width="100" height="100" alt="bit" src="https://github.com/user-attachments/assets/1ff462df-074c-4e91-a465-262ab7bf6886"/>
+  
+  # **Cryptexa**
+  
+  **Market Manipulation & Trend Intelligence System</strong>**
+  
     A professional, full-stack intelligence platform that decodes hype, exposes market manipulation, and tracks real-time cryptocurrency divergence using CoinGecko and Firebase.
-  </p>
 
   <p align="center">
     <a href="#features">Features</a> •
