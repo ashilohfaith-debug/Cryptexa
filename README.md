@@ -118,5 +118,7 @@ This project adheres to strict security standards:
 </br>
 
 <div align="center">
-  *Designed and built for traders who want to see past the noise.*
+  
+*Designed and built for traders who want to see past the noise.*
+
 </div>
