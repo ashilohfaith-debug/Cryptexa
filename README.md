@@ -20,7 +20,7 @@ A professional, full-stack intelligence platform that decodes hype, exposes mark
 
 </br>
 
-## <img width="25" height="25" alt="overview" src="https://github.com/user-attachments/assets/dd1d6fee-2516-45c0-bab0-f61c498091e1" /> Overview
+## <img width="23" height="23" alt="overview" src="https://github.com/user-attachments/assets/dd1d6fee-2516-45c0-bab0-f61c498091e1" /> Overview
 
 **Cryptexa** is an advanced market intelligence dashboard designed to separate genuine crypto market momentum from artificial social media hype. It uses an algorithmic **Reality Score** to warn traders about imminent pump-and-dump schemes, tracks hidden gems, and simulates market conditions.
 
@@ -28,7 +28,7 @@ This repository features a **modular full-stack architecture**, cleanly separati
 
 </br>
 
-## <img width="27" height="27" alt="feature" src="https://github.com/user-attachments/assets/0e2be0f0-96f8-4953-925c-4dfba1bd409a" /> Key Features
+## <img width="25" height="25" alt="feature" src="https://github.com/user-attachments/assets/0e2be0f0-96f8-4953-925c-4dfba1bd409a" /> Key Features
 
 *   **Real-time Intelligence Matrix:** Tracks 18 leading assets with live price feeds via the CoinGecko API.
 *   **Reality Score Engine:** Computes a unique metric based on the divergence between *Price Strength* and *Social Hype Intensity*.
@@ -107,16 +107,18 @@ This project adheres to strict security standards:
 
 </br>
 
-## 💻 Technologies Used
+## <img width="30" height="30" alt="tech" src="https://github.com/user-attachments/assets/863cfb66-1423-4c4e-8502-8aa2d74704a7" /> Technologies Used
 
-*   **Frontend:** HTML5, Vanilla CSS3, Vanilla JavaScript (ES6+).
-*   **Libraries:** Chart.js (Data Visualization).
-*   **Backend:** Python 3, `firebase-admin`, `pandas`, `python-dotenv`.
-*   **Database:** Firebase Realtime Database.
-*   **APIs:** CoinGecko V3, Alternative.me (Fear & Greed Index).
+*   **Frontend:** HTML5, Vanilla CSS3, Vanilla JavaScript (ES6+)
+*   **Libraries:** Chart.js (Data Visualization)
+*   **Backend:** Python 3, `firebase-admin`, `pandas`, `python-dotenv`
+*   **Database:** Firebase Realtime Database
+*   **APIs:** CoinGecko V3, Alternative.me (Fear & Greed Index)
 
 </br>
 
 <div align="center">
-  <p>Designed and built for traders who want to see past the noise.</p>
+  <svg xmlns="http://www.w3.org/2000/svg" width="560" height="28" viewBox="0 0 560 28">
+<text x="0" y="20" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#1B3A6B">Designed and built for traders who want to see past the noise.</text>
+</svg>
 </div>
