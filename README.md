@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.icons8.com/?size=100&id=64835&format=png&color=000000" alt="Cryptexa Logo" width="80" height="80">
+  <img width="100" height="100" alt="bit" src="https://github.com/user-attachments/assets/1ff462df-074c-4e91-a465-262ab7bf6886" />
   <h1 align="center">Cryptexa</h1>
   <p align="center">
     <strong>Market Manipulation & Trend Intelligence System</strong>
