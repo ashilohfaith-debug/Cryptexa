@@ -9,7 +9,7 @@ A professional, full-stack intelligence platform that decodes hype, exposes mark
 
 </br>
 
-[Overview](overview) • [Features](features) • [Architecture</a>](architecture) • [Installation](installation) • [Security](security) • [Technologies](technologies)
+[Overview](overview) • [Features](key-features) • [Architecture](architecture-&-project-structure) • [Installation](installation-&-setup) • [Security](security-&-best-ractices) • [Technologies](technologies)
 
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -107,7 +107,7 @@ This project adheres to strict security standards:
 
 </br>
 
-## <img width="30" height="30" alt="tech" src="https://github.com/user-attachments/assets/863cfb66-1423-4c4e-8502-8aa2d74704a7" /> Technologies Used
+## <img width="30" height="30" alt="tech" src="https://github.com/user-attachments/assets/863cfb66-1423-4c4e-8502-8aa2d74704a7" /> Technologies
 
 *   **Frontend:** HTML5, Vanilla CSS3, Vanilla JavaScript (ES6+)
 *   **Libraries:** Chart.js (Data Visualization)
@@ -118,7 +118,5 @@ This project adheres to strict security standards:
 </br>
 
 <div align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="560" height="28" viewBox="0 0 560 28">
-<text x="0" y="20" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#1B3A6B">Designed and built for traders who want to see past the noise.</text>
-</svg>
+  *Designed and built for traders who want to see past the noise.*
 </div>
