@@ -7,7 +7,7 @@
 
 A professional, full-stack intelligence platform that decodes hype, exposes market manipulation, and tracks real-time cryptocurrency divergence using CoinGecko and Firebase.
 
-</br>
+<br/>
 
 [Overview](#-overview) • [Features](#-key-features) • [Architecture](#-architecture--project-structure) • [Installation](#-installation--setup) • [Security](#-security--best-practices) • [Technologies](#-technologies)
 
@@ -18,7 +18,7 @@ A professional, full-stack intelligence platform that decodes hype, exposes mark
   
 </div>
 
-</br>
+<br/>
 
 ## <img width="23" height="23" alt="overview" src="https://github.com/user-attachments/assets/dd1d6fee-2516-45c0-bab0-f61c498091e1" /> Overview
 
@@ -26,7 +26,7 @@ A professional, full-stack intelligence platform that decodes hype, exposes mark
 
 This repository features a **modular full-stack architecture**, cleanly separating the vanilla JavaScript frontend from the Python data pipeline backend.
 
-</br>
+<br/>
 
 ## <img width="25" height="25" alt="feature" src="https://github.com/user-attachments/assets/0e2be0f0-96f8-4953-925c-4dfba1bd409a" /> Key Features
 
@@ -69,7 +69,7 @@ Cryptexa/
 └── .gitignore                 # Security exclusion file
 ```
 
-</br>
+<br/>
 
 ## 🛠️ Installation & Setup
 
@@ -96,7 +96,7 @@ Cryptexa/
    python upload_csv.py
    ```
 
-</br>
+<br/>
 
 ## 🔐 Security & Best Practices
 
@@ -105,7 +105,7 @@ This project adheres to strict security standards:
 *   **Secure `.gitignore`:** Prevents accidental commits of `firebase_credentials.json`, `.env`, and `env.js` files.
 *   **Modular Architecture:** Clean separation of frontend UI state and backend Python services.
 
-</br>
+<br/>
 
 ## <img width="30" height="30" alt="tech" src="https://github.com/user-attachments/assets/863cfb66-1423-4c4e-8502-8aa2d74704a7" /> Technologies
 
@@ -115,7 +115,7 @@ This project adheres to strict security standards:
 *   **Database:** Firebase Realtime Database
 *   **APIs:** CoinGecko V3, Alternative.me (Fear & Greed Index)
 
-</br>
+<br/>
 
 <div align="center">
   
