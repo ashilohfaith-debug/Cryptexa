@@ -7,6 +7,8 @@
 
 A professional, full-stack intelligence platform that decodes hype, exposes market manipulation, and tracks real-time cryptocurrency divergence using CoinGecko and Firebase.
 
+🔴 <a href="https://kevinjosh10.github.io/Cryptexa/frontend/index.html"><strong>Live Demo</strong></a>
+
 <br/>
 
 [Overview](#-overview) • [Features](#-key-features) • [Architecture](#%EF%B8%8F-architecture--project-structure) • [Installation](#%EF%B8%8F-installation--setup) • [Security](#-security--best-practices) • [Technologies](#-technologies)
