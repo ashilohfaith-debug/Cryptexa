@@ -9,7 +9,7 @@ A professional, full-stack intelligence platform that decodes hype, exposes mark
 
 <br/>
 
-[Overview](#-overview) • [Features](#-key-features) • [Architecture](#%EF%B8%8F-architecture--project-structure) • [Installation](#-installation--setup) • [Security](#-security--best-practices) • [Technologies](#-technologies)
+[Overview](#-overview) • [Features](#-key-features) • [Architecture](#%EF%B8%8F-architecture--project-structure) • [Installation](#%EF%B8%8F-installation--setup) • [Security](#-security--best-practices) • [Technologies](#-technologies)
 
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
